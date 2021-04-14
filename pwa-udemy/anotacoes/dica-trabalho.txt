@@ -1,0 +1,5 @@
+dica trabalho
+Chrome
+console -> marcar "disable cache" e "offiline"
+console -> network -> "offilene"
+console -> applicaiton -> service workers -> offiline

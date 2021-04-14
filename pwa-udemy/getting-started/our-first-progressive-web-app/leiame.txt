@@ -1,0 +1,18 @@
+npm install
+npm start
+http://localhost:3000
+
+
+
+first-pwa-start
+projeto web não pwd.
+
+
+first-pwa
+transforma o projeto web em pwa.
+
+app.js
+ler os comentários
+
+Esse exemplo só registrou o seviceWorker, vai ser explicado nos
+próximos exemplos.

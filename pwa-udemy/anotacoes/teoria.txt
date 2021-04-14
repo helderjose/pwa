@@ -1,0 +1,2 @@
+service worker
+javascript running in background process
