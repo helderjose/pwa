@@ -11,9 +11,9 @@
 1. comparing-pwa-and-spa - teoria
 1. what-is-progressive-enhancement - teoria
 1. course-outline - apresenta o curso
+1. course-project-setup - projeto inicial
 
 
 
 estou
-1. course-project-setup
 
