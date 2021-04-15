@@ -12,8 +12,5 @@
 1. what-is-progressive-enhancement - teoria
 1. course-outline - apresenta o curso
 1. course-project-setup - projeto inicial
-
-
-
-estou
+1. how-to-get-the-most-out-of-this-course - dicas de estudo, práticar e etc
 
