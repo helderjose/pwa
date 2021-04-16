@@ -1,0 +1,17 @@
+Teste
+Chrome
+f12 -> marque o celular
+f12 -> application -> manifest -> recarregue a página
+
+
+----- manifest.json -----
+Cria as propriedades do json.
+
+"theme_color":
+
+// cor de fundo da barra superior
+"theme_color": "#3f51b5",
+"description": "A simple Instagram Clone, implementing a lot of PWA love.",
+
+// left to right
+"dir": "ltr",

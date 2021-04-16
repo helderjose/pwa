@@ -1,0 +1,12 @@
+App manifest deixa a pwa instalável.
+
+
+src/manifest.json
+
+
+
+src/index.html
+Use a tag "<link re=""> para o manifest.json
+
+public/help/index.html
+Use a tag "<link re=""> para o manifest.json
